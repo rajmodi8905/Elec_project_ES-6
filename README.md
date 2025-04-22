@@ -38,8 +38,7 @@ https://iitgnacin-my.sharepoint.com/:b:/g/personal/24110282_iitgn_ac_in/EeSjzIu5
 ## 🎥 Demonstration Video
 
 Watch our project demonstration on YouTube:  
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=9y_q_Hd5wCc&authuser=0 
-
+https://www.youtube.com/watch?v=9y_q_Hd5wCc&authuser=0
 ## 👏 Acknowledgment
 
 We thank our course instructor, Arup Lal Chakraborty, and the IIT Gandhinagar laboratory staff for their guidance and support throughout this project.
